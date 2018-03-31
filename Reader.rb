@@ -41,7 +41,7 @@ class NametoURL_CSV
 
   def read_array(file)
     fileName = file.to_s
-    lines = File.readlines(fileName)
+    lines = File.readlines(fileName).uniq
     text = lines.join
     puts "ARRY" + text
     return
