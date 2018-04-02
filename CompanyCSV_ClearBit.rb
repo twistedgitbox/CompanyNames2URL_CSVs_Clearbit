@@ -24,7 +24,7 @@ class NametoURL_CSV
     listmade = @arraylist.list_run(filename, label)
     puts "THIS LIST #{listmade}"
     puts "DONE"
-    #self.loop_through_array(listmade)
+    self.loop_through_array(listmade)
     #self.loop_through_companylist(newfile)
   end
 

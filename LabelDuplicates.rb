@@ -4,7 +4,6 @@ class LabeltoCleanList
 
   def init_lize(filename)
     File.open("#{filename}.csv", "w") {}
-    @list = ""
   end
 
   def list_from_file(filename)
@@ -19,8 +18,6 @@ class LabeltoCleanList
     list.uniq!
     #puts list
     self.read_in_labels(filename, label, list)
-    list = @list
-    return list
   end
 
   def clean(input)
@@ -48,10 +45,8 @@ class LabeltoCleanList
     File.open(newfile, "w+") do |f|
       f.puts(checkarrx)
     end
-    @list = checkarrx
-    puts "NOW #{checkarrx}"
-    puts "THEN"
-    return checkarrx
+    list == checkarrx
+    return list
   end
 
   def list_run(filename, label)
