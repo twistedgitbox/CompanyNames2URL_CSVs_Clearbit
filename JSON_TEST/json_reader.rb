@@ -178,11 +178,11 @@ class ContactINFO
   end
 
   def cycle_through
-    filename = "temp"
+    filename = "test"
     self.init_lize(filename)
-    @listings << "temp"
-    @listings << "nexttemp"
-    @listings << "temptoo"
+    @listings << "test1"
+    @listings << "test2"
+    @listings << "test3"
     puts @listings
     listings = @listings
     listings.each_with_index do |company, index|
