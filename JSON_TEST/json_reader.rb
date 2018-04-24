@@ -8,6 +8,9 @@ class ContactINFO
     if File.exist?("./#{filename}2.csv") then
       File.truncate("./#{filename}2.csv", 0)
     end
+    if File.exist?("./#{filename}.csv") then
+      File.truncate("./#{filename}.csv", 0)
+    end
     #f = File.open("#{filename}.csv", 'r')
     #if !f.nil? && File.exist?(f)
     #  f.close unless f.closed?
