@@ -11,17 +11,31 @@ class ContactINFO
     if File.exist?("./#{filename}.csv") then
       File.truncate("./#{filename}.csv", 0)
     end
-    #f = File.open("#{filename}.csv", 'r')
-    #if !f.nil? && File.exist?(f)
-    #  f.close unless f.closed?
-    #  File.delete(f)
-    #end
-    #File.open("#{filename}.csv", "w+")
+    self.check_for_API_key
+    puts "YOUR KEY IS #{@api_key}"
     label = "COMPANY"
     @org_info = {}
     @all_orgs = []
     @listings = []
     return label
+  end
+
+  def check_for_API_key
+    api_key_path = "../.api_key_test"
+    f = File.open(api_key_path, 'r')
+    if !f.nil? && File.exist?(f)
+      f.close unless f.closed?
+      lines = IO.readlines(api_key_path)
+      puts lines.length
+      testme = lines[1]
+    elsif
+      puts "NO API KEY FILE"
+      testme = "NoKey"
+    end
+
+    puts "TEST KEY #{testme}"
+    @api_key = testme
+    puts "#{@api_key}"
   end
 
   def reset_variables(filename)
@@ -196,29 +210,21 @@ class ContactINFO
 
   end
 
+  def instance_test
+    testarr= ["phone", "desc", "address"]
+    category_arr = []
+    testarr.each_with_index do |category, index|
+      stage = "#{testarr[index]}Info"
+      category_arr << stage
+      #self.instance_variable_set(:@category, )
+    end
+    puts category_arr
+    return category_arr
+  end
 
 end
 
 x = ContactINFO.new
-#label = x.init_lize("temp")
-x.cycle_through
-#x.run("temp")
 
-#file = File.read "./temp.json"
-#data = JSON.parse(file)
-#puts data
-#puts data.class
-#data.each do |key, val|
-#  puts "#{key} => #{val}" # prints each key and value.
-#  puts
-#end
-#puts "FETCH"
-#puts data.keys
-#puts data.values[7]
-#puts data.keys[7]
-#idata =  data.fetch("organization")
-#puts idata.keys
-#idata.each do |key, val|
-#  puts "#{key} => #{val}"
-#  puts
-#end
+x.cycle_through
+x.instance_test
