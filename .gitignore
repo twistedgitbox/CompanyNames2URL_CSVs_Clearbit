@@ -2,3 +2,11 @@
 api_key_test
 api_key*
 .api_key*
+
+TO_MOVE/*
+
+*.csv
+*.json
+*.ods
+
+

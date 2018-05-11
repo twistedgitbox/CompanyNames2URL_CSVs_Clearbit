@@ -45,10 +45,14 @@ class NametoURL_CSV
     end
   end
 
-  def convert_JSON_to_CSV(textstring)
+  def convert_JSON_to_CSV(textstring, companyname)
+    testpart = textstring[0]
     objArray = JSON.parse(textstring)
     puts objArray
-    puts objArray.class
+    puts "OBJARRAY #{objArray.class}"
+    puts objArray[0]
+    puts objArray[0].class
+    objArray[0]["COMPANY"]="#{companyname}"
     datafile = "#{@datafile}.csv"
     CSV.open(datafile, "a") do |csv|
 
@@ -64,8 +68,14 @@ class NametoURL_CSV
     companyinfo = Net::HTTP.get(uri)
     sleep(0.5)
     puts companyinfo.class
+    puts companyinfo.length
     puts companyinfo
-    self.convert_JSON_to_CSV(companyinfo)
+    if companyinfo.length <=2 then
+    #if companyinfo.kind_of?(String) && companyinfo = "[]" then
+      puts "THIS IS EMPTY"
+      companyinfo = "[{\"name\":\"#{companyname}\",\"domain\":\"NOT_FOUND\",\"logo\":\"NOT_FOUND\"}]"
+    end
+    self.convert_JSON_to_CSV(companyinfo, companyname)
 
   end
 end
