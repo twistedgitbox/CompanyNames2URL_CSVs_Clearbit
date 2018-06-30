@@ -4,6 +4,7 @@ api_key*
 .api_key*
 
 TO_MOVE/*
+DATA_FILES/*
 
 *.csv
 *.json

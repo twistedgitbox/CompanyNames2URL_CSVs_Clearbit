@@ -8,8 +8,28 @@ puts "CREATING CSV FROM LIST"
 
 class NametoURL_CSV
 
+  def initialize
+    testbox = []
+    ARGV.each do|a|
+    testbox << "#{a}"
+    end
+    if testbox.count < 2 then
+      puts "Please run filename and labeltype following run command as in './script.rb filename exportfile'"
+      abort
+    end
+    filename = testbox[0]
+    option = testbox[1]
+    puts "FILENAME: #{filename}"
+    puts "EXPORT: #{option}"
+    @fileToexport = option
+    label_info = self.label_run(filename, option)
+    puts "Label Info is => #{label_info}"
+    puts ; puts ; puts
+    puts "Completed getting data from text file based on the labels added. Check Export folder for CSV #{filename}.csv."
+  end
+
   def init_lize
-    File.open("CompanyNamesURLs.csv", "w") {}
+    File.open("#{@fileToexport}_CompanyNamesURLs.csv", "w") {}
   end
 
   def blanklineremove(in_filename, out_filename)
@@ -18,7 +38,7 @@ class NametoURL_CSV
     end
   end
 
-  def run(in_filename, out_filename)
+  def label_run(in_filename, out_filename)
     self.init_lize
     self.blanklineremove(in_filename, out_filename)
     puts "SAVING CLEAN DATA"
@@ -78,16 +98,21 @@ class NametoURL_CSV
     objArray = JSON.parse(textstring)
     puts objArray
     puts objArray.class
-    datafile = "CompanyNamesURLs.csv"
+    datafile = "#{@fileToexport}_CompanyNamesURLs.csv"
     CSV.open(datafile, "a") do |csv|
 
       objArray.each do |hash|
+        puts "HASH"
+        hash[:sourcecompany] = "#{@companyname}"
+        puts hash.values
+        puts @companyname
         csv << hash.values
       end
     end
   end
 
   def get_clearbit(companyname)
+    @companyname = companyname
     puts "ADDING: #{companyname}"
     uri = URI("https://autocomplete.clearbit.com/v1/companies/suggest?query=:#{companyname}")
     companyinfo = Net::HTTP.get(uri)
@@ -100,5 +125,5 @@ end
 
 x = NametoURL_CSV.new
 
-x.run("StartList", "WorkingList")
+#x.run("StartList", "WorkingList")
 #x.test_bad_companies

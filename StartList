@@ -1,151 +1,994 @@
-COMPANY:Chief Learning Officer
-COMPANY:TED Radio Hour
-COMPANY:Deloitte
-COMPANY:Commonwealth of Massachusetts
-COMPANY:Sovereign Nation of the Kenaitze
-COMPANY:Pearson
-COMPANY:Aventist Health System
-COMPANY:MA Department of Children and Families
-COMPANY:FranklinCovey
-COMPANY:Northwestern University
-COMPANY:Ace Hardware Corporate
-COMPANY:Inkling
-COMPANY:Insight
-COMPANY:NCR
-COMPANY:Edelman
-COMPANY:Gronstedt Group
-COMPANY:OpenSesame
-COMPANY:Ann & Robert H. Lurie Children's Hospital of Chicago
-COMPANY:Perkins & Marie Callender's
-COMPANY:Lurie Children's
-COMPANY:S&P Global
-COMPANY:Hunter Douglas
-COMPANY:Taco Bell
-COMPANY:Airbus
-COMPANY:Deloitte Services LLP
-COMPANY:Samsung Electronics America
-COMPANY:Disrupted: My Misadventure in the Start-Up Bubble
-COMPANY:Blue Cross Blue Shield of North Carolina
-COMPANY:Allegiant Travel Company
-COMPANY:Siemens
-COMPANY:Mattel, Inc.
-COMPANY:Deep Work
-COMPANY:The Ariel Group
-COMPANY:Massachusetts Department of Children and Families Child Welfare Institute
-COMPANY:GP Sandy, A Division of GP Strategies
-COMPANY:Spencer Stuart
-COMPANY:Adobe Systems
-COMPANY:AlixPartners
-COMPANY:SpencerStuart
-COMPANY:Carolinas Health
-COMPANY:Pearson North America - Professional
-COMPANY:Amazon
-COMPANY:City of Detroit
-COMPANY:Department of Veterans Affairs/Veterans Health Administration
-COMPANY:Regeneron Pharmaceuticals
-COMPANY:IHG
-COMPANY:Wunderman
-COMPANY:Igloo Product Corp.
-COMPANY:AT&T
-COMPANY:Walmart
-COMPANY:Alorica
-COMPANY:Marco's Pizza
-COMPANY:WoodmenLife
-COMPANY:Ascension
-COMPANY:Dow Jones
-COMPANY:Royal Bank of Canada
-COMPANY:Acxiom
-COMPANY:Pfizer
-COMPANY:MGM Resorts International
-COMPANY:Ameriprise Financial Inc.
-COMPANY:Allegiant Air
-COMPANY:Cardinal Health
-COMPANY:Stamps.com
-COMPANY:MGM Resorts International
-COMPANY:Ameriprise Financial, Inc.
-COMPANY:Sony Pictures Entertainment
-COMPANY:NBA
-COMPANY:PayPal
-COMPANY:Cigna
-COMPANY:AMC Theatres
-COMPANY:State Farm
-COMPANY:Stitch Fix
-COMPANY:UnitedHealth Group
-COMPANY:Ericsson
-COMPANY:Whole Foods Market
-COMPANY:Airbus Group Inc.
-COMPANY:Mr. Cooper
-COMPANY:The Goodyear Tire & Rubber Company
-COMPANY:Loan Depot
-COMPANY:FLEETCOR
-COMPANY:CenterPoint Energy
-COMPANY:McKesson
-COMPANY:IPG Mediabrands
-COMPANY:NCR Corporation
-COMPANY:Allstate
-COMPANY:Berry Global
-COMPANY:General Motors
-COMPANY:HCA
-COMPANY:Philips
-COMPANY:Lincoln Property Company
-COMPANY:Shire
-COMPANY:The Home Depot
-COMPANY:Starbucks
-COMPANY:Cox Automotive
-COMPANY:Synchrony Financial
-COMPANY:Target
-COMPANY:Huntington National Bank
-COMPANY:JetBlue Airways
-COMPANY:Thomson Reuters
-COMPANY:Groupon
-COMPANY:International Flavors & Fragrances
-COMPANY:RBC Financial
-COMPANY:Oshkosh Corporation
-COMPANY:Ulta Beauty
-COMPANY:AbbVie
-COMPANY:Alcoa
-COMPANY:Nationwide
-COMPANY:Discover Financial Services
-COMPANY:Siemens Corporation
-COMPANY:Ann and Robert H. Lurie Children's Hospital of Chicago
-COMPANY:Macy's
-COMPANY:LightSpeed VT
-COMPANY:Geniecast
-COMPANY:GenZGuru
-COMPANY:Clockwork
-COMPANY:Westfall and Associates
-COMPANY:CA Technologies
-COMPANY:Ten-X
-COMPANY:Spirit Airlines
-COMPANY:NASA Jet Propulsion Laboratory
-COMPANY:Perkins & Will
-COMPANY:SoftwareONE
-COMPANY:Electronic Arts
-COMPANY:Essence
-COMPANY:IBM Cloud Video
-COMPANY:Virgin Orbit
+COMPANY:Urban Health Plan
+COMPANY:Health and Human Services Commission
+COMPANY:Catholic Health Services of Long Island
+COMPANY:Federal Acquisition Institute (FAI)
+COMPANY:UTC Aerospace Systems
+COMPANY:HealthPlanOne
+COMPANY:Morgan Stanley
+COMPANY:Denver Water
+COMPANY:CITY OF DETROIT
+COMPANY:Montefiore Medical Center
+COMPANY:Creative Leaps International
+COMPANY:Mount Sinai Health System
+COMPANY:TalentSmart, Inc.
+COMPANY:Women Presidents' Organization
+COMPANY:CrossKnowledge
 COMPANY:GE
-COMPANY:Gap Inc.
-COMPANY:Github
-COMPANY:Udemy for Business
-COMPANY:3Q Digital
-COMPANY:Alaska Airlines
-COMPANY:LPL Financial
-COMPANY:WithiumSmith+Brown
-COMPANY:[24]7.ai
-COMPANY:Kaiser Aluminum
-COMPANY:IPG Media Brands
-COMPANY:Reddit
-COMPANY:Blend
-COMPANY:Dickey's Barbecue Restaurants, Inc.
-COMPANY:Freese & Nichols
-COMPANY:Federal Reserve Bank of San Francisco
-COMPANY:Oath
-COMPANY:Uber
-COMPANY:Porter Novelli
-COMPANY:U.S. Department of Veterans Affairs
-COMPANY:Ancestry
-COMPANY:Expedia, Inc.
-COMPANY:L'OCCITANE en Provence
-COMPANY:DigitalOcean
-COMPANY:World Bank Group
+COMPANY:Carlton Senior Living
+COMPANY:Merck
+COMPANY:Guggenheim Partners
+COMPANY:NYC Office of the Mayor
+COMPANY:PurpleFrame Technologies
+COMPANY:Tiggly
+COMPANY:UNDP
+COMPANY:City of Alexandria, Virginia
+COMPANY:Adirondack Health
+COMPANY:Day Pitney LLP
+COMPANY:Ketchum
+COMPANY:Willis Towers Watson
+COMPANY:SCL Health
+COMPANY:James J. Peters VA Medical Center
+COMPANY:CrossKnowledge
+COMPANY:Mylan
+COMPANY:Mercer
+COMPANY:Rosetta Stone
+COMPANY:Oral Roberts University
+COMPANY:Penguin Random House
+COMPANY:TalentQuest
+COMPANY:ASPCA
+COMPANY:Nokia
+COMPANY:ASAE: The Center for Association Leadership
+COMPANY:Point 72 Asset Management
+COMPANY:JFK Health
+COMPANY:The Advisory Board Company
+COMPANY:NetCom Learning
+COMPANY:Perkins+Will
+COMPANY:The Judge Group
+COMPANY:Motorola Solutions, Inc.
+COMPANY:FTA
+COMPANY:ThinkFoodGroup
+COMPANY:Marcos Franchising
+COMPANY:Christie's Inc.
+COMPANY:CME Group
+COMPANY:RGP
+COMPANY:Horizon Media
+COMPANY:Creative Leaps International
+COMPANY:Mylan
+COMPANY:Association for Financial Professionals
+COMPANY:NYC Dept. of Correction
+COMPANY:Commodity Futures Trading Commission
+COMPANY:New York Health & Hospitals
+COMPANY:City of Detroit
+COMPANY:Commerzbank
+COMPANY:National Oceanic and Atmospheric Administration
+COMPANY:NetComLearning
+COMPANY:CCM Consultancy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
