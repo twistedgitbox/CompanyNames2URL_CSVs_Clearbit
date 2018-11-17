@@ -1,994 +1,228 @@
-COMPANY:Urban Health Plan
-COMPANY:Health and Human Services Commission
-COMPANY:Catholic Health Services of Long Island
-COMPANY:Federal Acquisition Institute (FAI)
-COMPANY:UTC Aerospace Systems
-COMPANY:HealthPlanOne
-COMPANY:Morgan Stanley
-COMPANY:Denver Water
-COMPANY:CITY OF DETROIT
-COMPANY:Montefiore Medical Center
-COMPANY:Creative Leaps International
-COMPANY:Mount Sinai Health System
-COMPANY:TalentSmart, Inc.
-COMPANY:Women Presidents' Organization
-COMPANY:CrossKnowledge
-COMPANY:GE
-COMPANY:Carlton Senior Living
-COMPANY:Merck
-COMPANY:Guggenheim Partners
-COMPANY:NYC Office of the Mayor
-COMPANY:PurpleFrame Technologies
-COMPANY:Tiggly
-COMPANY:UNDP
-COMPANY:City of Alexandria, Virginia
-COMPANY:Adirondack Health
-COMPANY:Day Pitney LLP
-COMPANY:Ketchum
-COMPANY:Willis Towers Watson
-COMPANY:SCL Health
-COMPANY:James J. Peters VA Medical Center
-COMPANY:CrossKnowledge
-COMPANY:Mylan
-COMPANY:Mercer
-COMPANY:Rosetta Stone
-COMPANY:Oral Roberts University
-COMPANY:Penguin Random House
-COMPANY:TalentQuest
-COMPANY:ASPCA
-COMPANY:Nokia
-COMPANY:ASAE: The Center for Association Leadership
-COMPANY:Point 72 Asset Management
-COMPANY:JFK Health
-COMPANY:The Advisory Board Company
-COMPANY:NetCom Learning
-COMPANY:Perkins+Will
-COMPANY:The Judge Group
-COMPANY:Motorola Solutions, Inc.
-COMPANY:FTA
-COMPANY:ThinkFoodGroup
-COMPANY:Marcos Franchising
-COMPANY:Christie's Inc.
-COMPANY:CME Group
-COMPANY:RGP
-COMPANY:Horizon Media
-COMPANY:Creative Leaps International
-COMPANY:Mylan
-COMPANY:Association for Financial Professionals
-COMPANY:NYC Dept. of Correction
-COMPANY:Commodity Futures Trading Commission
-COMPANY:New York Health & Hospitals
-COMPANY:City of Detroit
-COMPANY:Commerzbank
-COMPANY:National Oceanic and Atmospheric Administration
-COMPANY:NetComLearning
-COMPANY:CCM Consultancy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+COMPANY: 1010data
+COMPANY: 5th Logic
+COMPANY: Adobe
+COMPANY: Adobe Systems
+COMPANY: ADP
+COMPANY: Aflac
+COMPANY: Allego
+COMPANY: Allen Interactions
+COMPANY: AllenComm
+COMPANY: Amadeus North America
+COMPANY: Amazon
+COMPANY: American Homes 4 Rent
+COMPANY: Appsembler
+COMPANY: Aquinas
+COMPANY: Articulate
+COMPANY: Artisan E-Learning and E-Learning Uncovered
+COMPANY: Ashley Chiasson Consulting
+COMPANY: ASPIRE Consulting Group
+COMPANY: AssembleLearn
+COMPANY: Axonify
+COMPANY: Baycrest Health Sciences
+COMPANY: Beyond the Sky
+COMPANY: Blackboard
+COMPANY: Bloomsburg University
+COMPANY: BlueWater Learning
+COMPANY: BonlineLearning
+COMPANY: Booz Allen Hamilton
+COMPANY: Bottom-Line Performance
+COMPANY: Brandon Hall Group
+COMPANY: BreakAway Games
+COMPANY: BrightCarbon
+COMPANY: Brightwave Group
+COMPANY: Bull City Learning
+COMPANY: Canadian Department of National Defence
+COMPANY: Capital One
+COMPANY: Cath Ellis Learning Design
+COMPANY: Charles Schwab
+COMPANY: Choice Hotels International
+COMPANY: ColinRiley
+COMPANY: Covenant Transport
+COMPANY: Curbell Plastics
+COMPANY: Curious Lion
+COMPANY: D2L
+COMPANY: D2LA
+COMPANY: Daymon Interactions
+COMPANY: DeakinCo
+COMPANY: Dell EMC
+COMPANY: Designing Digitally
+COMPANY: Diageo
+COMPANY: DiDaXo
+COMPANY: Dig-iT! Games
+COMPANY: Docebo
+COMPANY: dominKnow
+COMPANY: e-Learning Pros Instructional Design
+COMPANY: Easygenerator
+COMPANY: eCoach
+COMPANY: EdCast
+COMPANY: EdCast, Inc
+COMPANY: Edmentum
+COMPANY: Eduworks Corporation
+COMPANY: eLearning Brothers
+COMPANY: eLearning Guild
+COMPANY: eLearning Joe
+COMPANY: eLearningBrothers
+COMPANY: eThink Education
+COMPANY: eXact learning solutions
+COMPANY: Expedia
+COMPANY: FCA US
+COMPANY: Fischer MicroTech
+COMPANY: Float
+COMPANY: Gameffective
+COMPANY: Geisinger Health Systems
+COMPANY: Gomo Learning
+COMPANY: gomo learning
+COMPANY: GP Strategies
+COMPANY: GP Strategies Canada
+COMPANY: Gronstedt Group
+COMPANY: Guardian Analytics
+COMPANY: Haliburton and Kaltura
+COMPANY: Halliburton
+COMPANY: Harvard Business Publishing
+COMPANY: Hemsley Fraser
+COMPANY: High-Quality Designs
+COMPANY: Home Learning + Development
+COMPANY: HT2
+COMPANY: HT2 Labs
+COMPANY: HT3
+COMPANY: HubSpot
+COMPANY: Huckleberry Design Group
+COMPANY: Human Performance Outfitters
+COMPANY: IBM
+COMPANY: IEEE Learning Technology Standards Committee
+COMPANY: Illumina Interactive
+COMPANY: Incremental Success
+COMPANY: Indusgeeks
+COMPANY: Infinitude Creative Group
+COMPANY: Info Tech
+COMPANY: InfoMedia Designs
+COMPANY: Ingenuiti
+COMPANY: Inkling
+COMPANY: InSync Training
+COMPANY: ISpring Solution
+COMPANY: ivari
+COMPANY: Ixxus
+COMPANY: JetBlue
+COMPANY: Johns Hopkins School of Medicine
+COMPANY: JPW Consulting
+COMPANY: Kaleidoscope Training & Consulting
+COMPANY: Kaleidoscope Training and Consulting
+COMPANY: Kaltura
+COMPANY: Kassy LaBorie Consulting
+COMPANY: Kineo
+COMPANY: Kineo US
+COMPANY: Knowbly
+COMPANY: knowbly
+COMPANY: Knowledge One
+COMPANY: Leadec Industrial Services
+COMPANY: Learning Dojo
+COMPANY: Learning Ninjas
+COMPANY: Learning Tribes
+COMPANY: Learning-Tribes
+COMPANY: LearnToProgram.tv
+COMPANY: Leo Learning
+COMPANY: LEO Learning
+COMPANY: Lincoln Memorial University
+COMPANY: Litmos
+COMPANY: Litmos by SAP
+COMPANY: LLamasoft
+COMPANY: Lodestone
+COMPANY: Los Angeles Pacific University
+COMPANY: Manager, College of Technical Operations
+COMPANY: Marc Rosenberg and Associates
+COMPANY: Mars Inc.
+COMPANY: Mars, Inc.
+COMPANY: McKinsey & Company
+COMPANY: McKinsey and Company
+COMPANY: Merck
+COMPANY: Mindset Digital
+COMPANY: Mission College
+COMPANY: Mobile Coach
+COMPANY: Moet & Hennessy USA
+COMPANY: Morningstar
+COMPANY: MPS Interactive Systems
+COMPANY: MPSInteractive
+COMPANY: MSC Consulting
+COMPANY: Mursion
+COMPANY: National Alliance on Mental Illness
+COMPANY: National Park Service
+COMPANY: NetDimensions - KZO Innovations
+COMPANY: NetDimensions | KZO Innovations
+COMPANY: NONE
+COMPANY: Northwest Area Health Education Center
+COMPANY: NuggetHead Studioz
+COMPANY: OReilly
+COMPANY: OERG at Minnesota State University
+COMPANY: OnPoint Digital
+COMPANY: Origin Learning
+COMPANY: OttoLearn
+COMPANY: Panopto
+COMPANY: PeopleFluent
+COMPANY: Performance Instruction
+COMPANY: Pokeshot
+COMPANY: Poll Everywhere
+COMPANY: PwC
+COMPANY: Quantum Improvements Consulting
+COMPANY: QuantumISD
+COMPANY: Questionmark
+COMPANY: Quinnovation
+COMPANY: Radford University
+COMPANY: ReadyGo
+COMPANY: Rehearsal
+COMPANY: REI
+COMPANY: Remote-Learner
+COMPANY: ResMed
+COMPANY: Riptide Software
+COMPANY: RISC
+COMPANY: Rockwell Collins
+COMPANY: RoundTable Learning
+COMPANY: Rourke Training
+COMPANY: Rustici Software
+COMPANY: Santa Fe Community College
+COMPANY: Schoox
+COMPANY: Sea Salt Learning
+COMPANY: SealWorks
+COMPANY: Sealworks
+COMPANY: Sealworks Interactive Studios
+COMPANY: Sententia Gamification
+COMPANY: Sigma Chi Fraternity
+COMPANY: SmartBuilder
+COMPANY: Snap Synapse
+COMPANY: SnapAV
+COMPANY: Socratic Arts
+COMPANY: Sodexo
+COMPANY: Southern California Edison
+COMPANY: Southlake Regional Health Centre
+COMPANY: Southwest Airlines
+COMPANY: Sr. Solutions Architect
+COMPANY: STRIVR
+COMPANY: SunRun
+COMPANY: Sunrun
+COMPANY: TechSmith
+COMPANY: TechSmith Corporation
+COMPANY: The Combs Cantu Group
+COMPANY: The eLearning Guild
+COMPANY: The Game Agency
+COMPANY: The Georgia Institute of Technology
+COMPANY: The Training Associates
+COMPANY: TorranceLearning
+COMPANY: Total Learning
+COMPANY: Totara Learning
+COMPANY: Totara Learning Solutions
+COMPANY: Training Resources Group
+COMPANY: Travelers  
+COMPANY: Travelers Insurance
+COMPANY: Trifoia
+COMPANY: Trivantis
+COMPANY: Udemy
+COMPANY: Udutu
+COMPANY: Unum
+COMPANY: Usable Learning
+COMPANY: Valamis
+COMPANY: Verint Systems
+COMPANY: Visa
+COMPANY: VP Customer Engagement
+COMPANY: Walk Resorts
+COMPANY: Winston Wolfe
+COMPANY: Yet Analytics
+COMPANY: Yukon Learning

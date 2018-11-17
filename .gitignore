@@ -6,6 +6,8 @@ api_key*
 TO_MOVE/*
 DATA_FILES/*
 
+importdata*
+
 *.csv
 *.json
 *.ods
