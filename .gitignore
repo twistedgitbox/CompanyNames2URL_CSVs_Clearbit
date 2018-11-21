@@ -7,6 +7,7 @@ TO_MOVE/*
 DATA_FILES/*
 
 importdata*
+StartList*
 
 *.csv
 *.json

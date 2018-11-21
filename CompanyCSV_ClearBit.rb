@@ -45,6 +45,15 @@ class NametoURL_CSV
     end
   end
 
+  def get_ourtime
+    utime = Time.new
+    ourtime = utime.strftime("%Y-%m-%d").to_s
+    puts ourtime
+    puts ourtime.class
+    puts ourtime
+    return ourtime
+  end
+
   def convert_JSON_to_CSV(textstring, companyname)
     testpart = textstring[0]
     objArray = JSON.parse(textstring)
@@ -53,7 +62,8 @@ class NametoURL_CSV
     puts objArray[0]
     puts objArray[0].class
     objArray[0]["COMPANY"]="#{companyname}"
-    datafile = "#{@datafile}.csv"
+    ourtime = self.get_ourtime
+    datafile = "#{@datafile}_#{ourtime}.csv"
     CSV.open(datafile, "a") do |csv|
 
       objArray.each do |hash|
